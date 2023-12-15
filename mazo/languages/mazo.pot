@@ -1,0 +1,4570 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mazo Version 1.0\n"
+"POT-Creation-Date: 2023-03-29 15:16+0530\n"
+"PO-Revision-Date: 2019-11-30 19:59+0500\n"
+"Last-Translator: Dexign Zone <rahulxarma@gmail.com>\n"
+"Language-Team: Dexign Zone <rahulxarma@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x;esc_attr_e;esc_attr__;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:9
+msgid "yearly archives date format"
+msgstr ""
+
+#: booking_template.php:31 dz-inc/elements/post_template/post_audio.php:110
+#: dz-inc/elements/post_template/post_cornerimage.php:113
+#: dz-inc/elements/post_template/post_gutenberg.php:87
+#: dz-inc/elements/post_template/post_header_image.php:117
+#: dz-inc/elements/post_template/post_link.php:115
+#: dz-inc/elements/post_template/post_slider_1.php:120
+#: dz-inc/elements/post_template/post_slider_2.php:126
+#: dz-inc/elements/post_template/post_standard.php:105
+#: dz-inc/elements/post_template/post_video.php:111 page.php:48
+#: shop_template.php:49
+msgid "Pages: "
+msgstr ""
+
+#: category.php:11 functions.php:860
+msgid "Category : "
+msgstr ""
+
+#: comments.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:39 comments.php:42
+msgid "Comments"
+msgstr ""
+
+#: comments.php:69
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:70
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:13 dz-inc/admin/templates/plugins.php:30
+#: dz-inc/admin/templates/system_status.php:263
+msgid "Introduction"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:16 dz-inc/admin/templates/plugins.php:33
+#: dz-inc/admin/templates/system_status.php:266
+msgid "Plugins"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:19 dz-inc/admin/templates/plugins.php:36
+#: dz-inc/admin/templates/system_status.php:269
+#: dz-inc/admin/templates/system_status.php:275
+#: dz-inc/library/class-menu-handle.php:66 dz-inc/library/class-menu-handle.php:67
+msgid "System Status"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:35 dz-inc/admin/templates/dashboard.php:47
+#: dz-inc/admin/templates/dashboard.php:59
+#: dz-inc/elementor/ajax/post_listing_1_ajax.php:58
+#: dz-inc/elementor/ajax/service_listing_2_ajax.php:49
+#: dz-inc/elementor/elements/comingsoon_element.php:78
+#: dz-inc/elementor/elements/contact_form_7_element.php:58
+#: dz-inc/elementor/elements/contact_form_7_element.php:94
+#: dz-inc/elementor/elements/content_box_10_element.php:40
+#: dz-inc/elementor/elements/content_box_10_element.php:42
+#: dz-inc/elementor/elements/content_box_10_element.php:87
+#: dz-inc/elementor/elements/content_box_10_element.php:89
+#: dz-inc/elementor/elements/content_box_10_element.php:99
+#: dz-inc/elementor/elements/content_box_10_element.php:100
+#: dz-inc/elementor/elements/content_box_10_element.php:103
+#: dz-inc/elementor/elements/content_box_10_element.php:104
+#: dz-inc/elementor/elements/content_box_10_element.php:107
+#: dz-inc/elementor/elements/content_box_10_element.php:108
+#: dz-inc/elementor/elements/content_box_11_element.php:14
+#: dz-inc/elementor/elements/content_box_11_element.php:20
+#: dz-inc/elementor/elements/content_box_11_element.php:27
+#: dz-inc/elementor/elements/content_box_11_element.php:66
+#: dz-inc/elementor/elements/content_box_12_element.php:16
+#: dz-inc/elementor/elements/content_box_13_element.php:36
+#: dz-inc/elementor/elements/content_box_13_element.php:51
+#: dz-inc/elementor/elements/content_box_14_element.php:49
+#: dz-inc/elementor/elements/content_box_14_element.php:52
+#: dz-inc/elementor/elements/content_box_1_element.php:21
+#: dz-inc/elementor/elements/content_box_1_element.php:24
+#: dz-inc/elementor/elements/content_box_1_element.php:27
+#: dz-inc/elementor/elements/content_box_1_element.php:95
+#: dz-inc/elementor/elements/content_box_1_element.php:98
+#: dz-inc/elementor/elements/content_box_1_element.php:101
+#: dz-inc/elementor/elements/content_box_2_element.php:85
+#: dz-inc/elementor/elements/content_box_3_element.php:13
+#: dz-inc/elementor/elements/content_box_4_element.php:26
+#: dz-inc/elementor/elements/content_box_4_element.php:74
+#: dz-inc/elementor/elements/content_box_5_element.php:75
+#: dz-inc/elementor/elements/content_box_5_element.php:81
+#: dz-inc/elementor/elements/content_box_6_element.php:16
+#: dz-inc/elementor/elements/content_box_6_element.php:78
+#: dz-inc/elementor/elements/content_box_6_element.php:116
+#: dz-inc/elementor/elements/content_box_7_element.php:18
+#: dz-inc/elementor/elements/content_box_7_element.php:77
+#: dz-inc/elementor/elements/content_box_8_element.php:28
+#: dz-inc/elementor/elements/content_box_8_element.php:29
+#: dz-inc/elementor/elements/content_box_8_element.php:79
+#: dz-inc/elementor/elements/content_box_8_element.php:80
+#: dz-inc/elementor/elements/content_box_9_element.php:10
+#: dz-inc/elementor/elements/content_box_9_element.php:11
+#: dz-inc/elementor/elements/content_box_9_element.php:60
+#: dz-inc/elementor/elements/content_box_9_element.php:61
+#: dz-inc/elementor/elements/home_slider_4_element.php:45
+#: dz-inc/elementor/elements/home_slider_5_element.php:50
+#: dz-inc/elementor/elements/partners_1_element.php:37
+#: dz-inc/elementor/elements/partners_1_element.php:76
+#: dz-inc/elementor/elements/partners_with_video_section_element.php:33
+#: dz-inc/elementor/elements/portfolio_detail_1_element.php:13
+#: dz-inc/elementor/elements/portfolio_detail_1_element.php:79
+#: dz-inc/elementor/elements/portfolio_detail_3_element.php:59
+#: dz-inc/elementor/elements/portfolio_detail_3_element.php:117
+#: dz-inc/elementor/elements/portfolio_detail_4_element.php:9
+#: dz-inc/elementor/elements/portfolio_detail_4_element.php:69
+#: dz-inc/elementor/elements/service_detail_1_element.php:57
+#: dz-inc/elementor/elements/service_detail_1_element.php:115
+#: dz-inc/elementor/elements/service_detail_2_element.php:50
+#: dz-inc/elementor/elements/service_detail_3_element.php:49
+#: dz-inc/elementor/elements/service_detail_3_element.php:59
+#: dz-inc/elementor/elements/service_slider_1_element.php:105
+#: dz-inc/elementor/elements/sitedown_element.php:35
+#: dz-inc/elementor/elements/sitedown_element.php:56
+#: dz-inc/elementor/elements/sitedown_element.php:57
+#: dz-inc/elementor/elements/sitedown_element.php:60
+#: dz-inc/elementor/elements/sitedown_element.php:61
+#: dz-inc/elementor/elements/sitedown_element.php:64
+#: dz-inc/elementor/elements/sitedown_element.php:65
+#: dz-inc/elementor/elements/testimonial_slider_1_element.php:70
+#: dz-inc/elementor/elements/testimonial_slider_1_element.php:147
+#: dz-inc/elements/comingsoon/comingsoon_1.php:78
+#: dz-inc/elements/footer/footer_4.php:7 dz-inc/elements/footer/footer_4.php:8
+#: dz-inc/elements/maintinance/maintinance_2.php:11
+#: dz-inc/elements/maintinance/maintinance_3.php:14
+#: dz-inc/elements/maintinance/maintinance_3.php:15
+#: dz-inc/elements/maintinance/maintinance_3.php:18
+#: dz-inc/elements/maintinance/maintinance_3.php:19
+#: dz-inc/elements/maintinance/maintinance_3.php:22
+#: dz-inc/elements/maintinance/maintinance_3.php:23
+#: dz-inc/library/functions.php:1542 dz-inc/library/functions.php:1543
+#: dz-inc/library/functions_10_sep_2021.php:1569
+#: dz-inc/library/functions_10_sep_2021.php:1570 dz-inc/library/widgets.php:718
+msgid "Image"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:38
+msgid "Support"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:39
+msgid ""
+"We would happy to help you solve any issues. If you have any question then "
+"contact us on our support panel."
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:40
+msgid "Go To Support"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:50
+msgid "Documentation"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:51
+msgid ""
+"Our online documentation helps you to learn how to setup and customize the "
+"theme."
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:52
+msgid "Read Docs"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:62
+msgid "Video Tutorials"
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:63
+msgid "The video tutorial will help you do the learn easily the theme."
+msgstr ""
+
+#: dz-inc/admin/templates/dashboard.php:64
+msgid "Watch Now"
+msgstr ""
+
+#: dz-inc/admin/templates/plugins.php:84
+msgid "Update Available: Version"
+msgstr ""
+
+#: dz-inc/admin/templates/plugins.php:91
+msgid "Active:"
+msgstr ""
+
+#: dz-inc/admin/templates/plugins.php:109
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "Required"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:38
+#: dz-inc/admin/templates/system_status.php:45
+msgid "Theme Config"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:56
+msgid "Theme Version"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:66
+msgid "PHP Config"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:73
+msgid "Server Software"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:85
+msgid "PHP"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:91
+msgid "Required version 7.0 or greater."
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:102
+msgid "MySQL"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:108
+msgid "Required version 5 or greater."
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:119
+msgid "Max Execution Time"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:125
+msgid "Required max_execution_time more than 300."
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:136
+msgid "Max Input Vars"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:142
+msgid "Required max_input_vars more than 1000."
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:152
+msgid "Post Max Size"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:158
+msgid "Required post_max_size more than 32."
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:168
+msgid "WordPress Config"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:175
+msgid "Site URL"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:186
+msgid "Home URL"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:197
+msgid "WP version"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:205
+msgid "Required version 5.0 or greater"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:216
+msgid "WP Multisite Status"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:220
+msgid "Yes"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:220
+msgid "No"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:227
+msgid "WP Language"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:238
+msgid "WP Memory Limit"
+msgstr ""
+
+#: dz-inc/admin/templates/system_status.php:245
+msgid "Required memory limit 64M."
+msgstr ""
+
+#: dz-inc/ajax/archive_ajax.php:54 dz-inc/ajax/author_ajax.php:62
+#: dz-inc/ajax/category_ajax.php:64 dz-inc/ajax/index_ajax.php:53
+#: dz-inc/ajax/search_ajax.php:64 dz-inc/ajax/tag_ajax.php:65
+#: dz-inc/elementor/ajax/post_listing_1_ajax.php:97
+#: dz-inc/elementor/ajax/post_listing_2_ajax.php:55
+#: dz-inc/elementor/ajax/post_listing_6_ajax.php:56
+#: dz-inc/elementor/elements/portfolio_2_element.php:139
+#: dz-inc/elementor/elements/post_slider_1_element.php:174
+#: dz-inc/elements/archive_page_pagination_posts_element.php:36
+#: dz-inc/elements/author_page_pagination_posts_element.php:42
+#: dz-inc/elements/category_page_pagination_posts_element.php:38
+#: dz-inc/elements/index_page_pagination_posts_element.php:35
+#: dz-inc/elements/post_template/post_audio.php:60
+#: dz-inc/elements/post_template/post_cornerimage.php:65
+#: dz-inc/elements/post_template/post_gutenberg.php:46
+#: dz-inc/elements/post_template/post_header_image.php:59
+#: dz-inc/elements/post_template/post_link.php:73
+#: dz-inc/elements/post_template/post_slider_1.php:78
+#: dz-inc/elements/post_template/post_slider_2.php:61
+#: dz-inc/elements/post_template/post_standard.php:65
+#: dz-inc/elements/post_template/post_video.php:69
+#: dz-inc/elements/related_element.php:75 dz-inc/elements/related_element.php:142
+#: dz-inc/elements/search_page_pagination_posts_element.php:36
+#: dz-inc/elements/tag_page_pagination_posts_element.php:35
+msgid "By"
+msgstr ""
+
+#: dz-inc/ajax/archive_ajax.php:69 dz-inc/ajax/author_ajax.php:77
+#: dz-inc/ajax/category_ajax.php:79 dz-inc/ajax/index_ajax.php:68
+#: dz-inc/ajax/search_ajax.php:79 dz-inc/ajax/tag_ajax.php:80
+#: dz-inc/elementor/ajax/post_listing_1_ajax.php:114
+#: dz-inc/elementor/ajax/post_listing_2_ajax.php:72
+#: dz-inc/elementor/ajax/post_listing_3_ajax.php:63
+#: dz-inc/elements/archive_page_pagination_posts_element.php:51
+#: dz-inc/elements/author_page_pagination_posts_element.php:57
+#: dz-inc/elements/category_page_pagination_posts_element.php:53
+#: dz-inc/elements/index_page_pagination_posts_element.php:50
+#: dz-inc/elements/related_element.php:92 dz-inc/elements/related_element.php:185
+#: dz-inc/elements/search_page_pagination_posts_element.php:51
+#: dz-inc/elements/tag_page_pagination_posts_element.php:50
+msgid "READ MORE"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:9
+msgid "Mazo Home 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:15
+msgid "Mazo Home 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:21
+msgid "Mazo Home 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:27
+msgid "Mazo Home 4"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:33
+msgid "Mazo Home 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:44
+msgid "Comingsoon"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:52
+msgid "Maintenance"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:58
+msgid "Maintenance 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:64
+msgid "Maintenance 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:72
+msgid "Error"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:89
+msgid "Standard"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:97
+msgid "Gutenberg"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:105
+msgid "Corner Post"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:113
+msgid "Header Image"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:121
+msgid "Slider Post 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:129
+msgid "Link Post"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:137
+msgid "Video Post"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:145
+msgid "Audio Post"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:153
+msgid "Slider Post 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:169 dz-inc/dz-redux/constant.php:202
+#: dz-inc/dz-redux/constant.php:286
+msgid "Style - Transparent"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:185 dz-inc/dz-redux/constant.php:236
+#: dz-inc/dz-redux/constant.php:252 dz-inc/dz-redux/constant.php:269
+#: dz-inc/dz-redux/constant.php:303 dz-inc/dz-redux/constant.php:320
+msgid "Style - Normal"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:219
+msgid "Style - Sidebar Menu"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:343
+msgid "Footer 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:356
+msgid "Footer 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:370
+msgid "Footer 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:384
+msgid "Footer 4"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:398
+msgid "Footer 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:412
+msgid "Footer 6"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:427
+msgid "Footer 7"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:441
+msgid "Footer 8"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:455
+msgid "Footer 9"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:470
+msgid "Footer 10"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:494
+msgid "Full Width"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:501
+msgid "Left Side"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:508
+msgid "Right Side"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:524
+msgid "Post Box 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:532
+msgid "Post Box 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:540
+msgid "Post Box 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:548
+msgid "Post Box 4"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:556
+msgid "Post Box 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:564
+msgid "Post Box 6"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:572
+msgid "Post Box 7"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:580
+msgid "Post Box 8"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:588
+msgid "Post Box 9"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:596
+msgid "Post Box 10"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:613
+msgid "Post Listing 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:620
+msgid "Post Listing 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:627
+msgid "Team Listing 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:634
+msgid "Portfolio Listing 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:642
+msgid "Post Listing 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:658
+msgid "Post Tile 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:666
+msgid "Post Tile 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:682
+msgid "Fit to Screen"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:690
+msgid "Banner Medium"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:698
+msgid "Banner Small"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:706
+msgid "Custom Height"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:735
+msgid "Post Banner 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:748
+msgid "Post Banner 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:761
+msgid "Post Banner 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:782
+msgid "Full"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:790
+msgid "Box"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:798
+msgid "Frame"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:814
+msgid "Brown"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:822 dz-inc/dz-redux/constant.php:1014
+msgid "Green"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:830
+msgid "Pink"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:838
+msgid "Red"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:846
+msgid "Cyan"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:854
+msgid "Yellow"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:897
+msgid "Pattern Name 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:903
+msgid "Pattern Name 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:909
+msgid "Pattern Name 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:915
+msgid "Pattern Name 4"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:921
+msgid "Pattern Name 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:927
+msgid "Pattern Name 6"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:933
+msgid "Pattern Name 7"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:939
+msgid "Pattern Name 8"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:945
+msgid "Pattern Name 9"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:951
+msgid "Pattern Name 10"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:957
+msgid "Pattern Name 11"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:963
+msgid "Pattern Name 12"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:978
+msgid "Standard Red"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:987
+msgid "Dark Yellow"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:996
+msgid "Sky Blue"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1005
+msgid "Light Yellow"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1023
+msgid "Dark Green"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1032
+msgid "Apricot"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1042
+msgid "Purple"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1057
+msgid "Loading 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1063
+msgid "Loading 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1069
+msgid "Loading 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1075
+msgid "Loading 4"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1081
+msgid "Loading 5"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1087
+msgid "Loading 6"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1093
+msgid "Loading 7"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1099
+msgid "Loading 8"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1105
+msgid "Loading 9"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1111
+msgid "Loading 10"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1117
+msgid "Loading 11"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1123
+msgid "Loading 12"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1137
+msgid "Date ASC"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1138
+msgid "Date DESC"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1139
+msgid "Title ASC"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1140
+msgid "Title DESC"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1142
+msgid "Most Visited"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1152
+msgid "Opens the link in a new tab."
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1153
+msgid "Opens the link in the parent frame."
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1154
+msgid "Open the link in the current frame."
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1155
+msgid "Opens the link in the top-most frame."
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1164
+msgid "Auto"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1165
+msgid "120 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1166
+msgid "120 x 240"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1167
+msgid "120 x 600"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1168
+msgid "125 x 125"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1169
+msgid "160 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1170
+msgid "160 x 600"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1171
+msgid "180 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1172
+msgid "180 x 150"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1173
+msgid "200 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1174
+msgid "200 x 200"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1175
+msgid "234 x 60"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1176
+msgid "250 x 250"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1177
+msgid "320 x 100"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1178
+msgid "300 x 250"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1179
+msgid "300 x 600"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1180
+msgid "300 x 1050"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1181
+msgid "320 x 50"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1182
+msgid "336 x 280"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1183
+msgid "360 x 300"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1184
+msgid "435 x 300"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1185
+msgid "468 x 15"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1186
+msgid "468 x 60"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1187
+msgid "640 x 165"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1188
+msgid "640 x 190"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1189
+msgid "640 x 300"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1190
+msgid "728 x 15"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1191
+msgid "728 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1192
+msgid "970 x 90"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1193
+msgid "970 x 250"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1194
+msgid "240 x 400 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1195
+msgid "250 x 360 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1196
+msgid "580 x 400 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1197
+msgid "750 x 100 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1198
+msgid "750 x 200 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1199
+msgid "750 x 300 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1200
+msgid "980 x 120 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1201
+msgid "930 x 180 - Regional ad sizes"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1390
+msgid "Image Type Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1404
+msgid "Banner Layout 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1411
+msgid "Banner Layout 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1419
+msgid "Banner Layout 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1436
+msgid "Post Related 1"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1443
+msgid "Post Related 2"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1450
+msgid "Post Related 3"
+msgstr ""
+
+#: dz-inc/dz-redux/constant.php:1457
+msgid "Post Related 4"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:51 dz-inc/dz-redux/theme-options.php:1202
+msgid "Post Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:88 dz-inc/dz-redux/page-options.php:974
+#: dz-inc/dz-redux/page-options.php:1091 dz-inc/dz-redux/page-options.php:1220
+msgid "General"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:94 dz-inc/dz-redux/page-options.php:966
+#: dz-inc/dz-redux/page-options.php:1083 dz-inc/dz-redux/page-options.php:1179
+#: dz-inc/dz-redux/page-options.php:1499
+msgid "Featured Post?"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:95 dz-inc/dz-redux/page-options.php:967
+#: dz-inc/dz-redux/page-options.php:1084 dz-inc/dz-redux/page-options.php:1180
+#: dz-inc/dz-redux/page-options.php:1500
+msgid "Check if you want to make this post as featured post"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:102
+msgid "Post Header"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:103
+msgid "Header settings for the post."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:109
+msgid "Post Header Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:111 dz-inc/dz-redux/page-options.php:322
+#: dz-inc/dz-redux/page-options.php:441 dz-inc/dz-redux/page-options.php:537
+#: dz-inc/dz-redux/page-options.php:569 dz-inc/dz-redux/page-options.php:873
+#: dz-inc/dz-redux/page-options.php:1197 dz-inc/dz-redux/page-options.php:1300
+#: dz-inc/dz-redux/page-options.php:1406 dz-inc/dz-redux/page-options.php:1517
+#: dz-inc/dz-redux/page-options.php:1549 dz-inc/dz-redux/page-options.php:1654
+msgid "Theme Default"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:112 dz-inc/dz-redux/page-options.php:323
+#: dz-inc/dz-redux/page-options.php:442 dz-inc/dz-redux/page-options.php:538
+#: dz-inc/dz-redux/page-options.php:570 dz-inc/dz-redux/page-options.php:874
+#: dz-inc/dz-redux/page-options.php:1198 dz-inc/dz-redux/page-options.php:1301
+#: dz-inc/dz-redux/page-options.php:1407 dz-inc/dz-redux/page-options.php:1518
+#: dz-inc/dz-redux/page-options.php:1550 dz-inc/dz-redux/page-options.php:1655
+msgid "Custom Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:119 dz-inc/dz-redux/page-options.php:545
+#: dz-inc/dz-redux/page-options.php:1205 dz-inc/dz-redux/page-options.php:1525
+#: dz-inc/dz-redux/theme-options.php:914
+msgid "Header Style"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:120
+msgid "Choose header style. White header is set as default header for this post."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:134
+msgid "Post Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:141
+msgid "Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:142
+msgid "Select a template."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:143 dz-inc/dz-redux/theme-options.php:1218
+msgid "Click on the template icon to select."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:147 dz-inc/dz-redux/theme-options.php:1222
+#: dz-inc/dz-redux/theme-options.php:2444 dz-inc/dz-redux/theme-options.php:2478
+#: dz-inc/dz-redux/theme-options.php:2536
+msgid "How it Works?"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:148
+msgid ""
+"Once you select the template from here, the template will apply for this page "
+"only."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:154 dz-inc/dz-redux/page-options.php:167
+#: dz-inc/dz-redux/page-options.php:180
+msgid "Gallery"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:155 dz-inc/dz-redux/page-options.php:168
+#: dz-inc/dz-redux/page-options.php:181
+msgid "Select the gallery images"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:156 dz-inc/dz-redux/page-options.php:169
+#: dz-inc/dz-redux/page-options.php:182
+msgid ""
+"For better layout, Image size width greater than 1000 and height greater than "
+"600"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:193
+msgid "External Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:205 dz-inc/dz-redux/page-options.php:206
+msgid "Author Name"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:216 dz-inc/dz-redux/page-options.php:217
+msgid "Quote Text"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:227
+msgid "Sound Cloud Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:239
+msgid "Video Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:251 dz-inc/dz-redux/page-options.php:281
+#: dz-inc/dz-redux/page-options.php:826 dz-inc/dz-redux/page-options.php:848
+#: dz-inc/dz-redux/theme-options.php:487 dz-inc/dz-redux/theme-options.php:1663
+#: dz-inc/dz-redux/theme-options.php:1685 dz-inc/dz-redux/theme-options.php:2008
+#: dz-inc/dz-redux/theme-options.php:2030
+msgid "Sidebar"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:252
+msgid "Show / hide sidebar from this posts detail page."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:253 dz-inc/dz-redux/page-options.php:297
+#: dz-inc/dz-redux/page-options.php:305 dz-inc/dz-redux/page-options.php:331
+#: dz-inc/dz-redux/page-options.php:419 dz-inc/dz-redux/page-options.php:450
+#: dz-inc/dz-redux/page-options.php:578 dz-inc/dz-redux/page-options.php:708
+#: dz-inc/dz-redux/page-options.php:827 dz-inc/dz-redux/page-options.php:882
+#: dz-inc/dz-redux/page-options.php:1309 dz-inc/dz-redux/page-options.php:1383
+#: dz-inc/dz-redux/page-options.php:1415 dz-inc/dz-redux/page-options.php:1558
+#: dz-inc/dz-redux/page-options.php:1631 dz-inc/dz-redux/page-options.php:1663
+#: dz-inc/dz-redux/theme-options.php:350 dz-inc/dz-redux/theme-options.php:437
+#: dz-inc/dz-redux/theme-options.php:449 dz-inc/dz-redux/theme-options.php:460
+#: dz-inc/dz-redux/theme-options.php:475 dz-inc/dz-redux/theme-options.php:490
+#: dz-inc/dz-redux/theme-options.php:501 dz-inc/dz-redux/theme-options.php:520
+#: dz-inc/dz-redux/theme-options.php:785 dz-inc/dz-redux/theme-options.php:803
+#: dz-inc/dz-redux/theme-options.php:892 dz-inc/dz-redux/theme-options.php:932
+#: dz-inc/dz-redux/theme-options.php:941 dz-inc/dz-redux/theme-options.php:950
+#: dz-inc/dz-redux/theme-options.php:965 dz-inc/dz-redux/theme-options.php:974
+#: dz-inc/dz-redux/theme-options.php:997 dz-inc/dz-redux/theme-options.php:1022
+#: dz-inc/dz-redux/theme-options.php:1031 dz-inc/dz-redux/theme-options.php:1231
+#: dz-inc/dz-redux/theme-options.php:1239 dz-inc/dz-redux/theme-options.php:1247
+#: dz-inc/dz-redux/theme-options.php:1256 dz-inc/dz-redux/theme-options.php:1275
+#: dz-inc/dz-redux/theme-options.php:1283 dz-inc/dz-redux/theme-options.php:1292
+#: dz-inc/dz-redux/theme-options.php:1300 dz-inc/dz-redux/theme-options.php:1309
+#: dz-inc/dz-redux/theme-options.php:1333 dz-inc/dz-redux/theme-options.php:1341
+#: dz-inc/dz-redux/theme-options.php:1469 dz-inc/dz-redux/theme-options.php:1664
+#: dz-inc/dz-redux/theme-options.php:1798 dz-inc/dz-redux/theme-options.php:2009
+#: dz-inc/dz-redux/theme-options.php:2068 dz-inc/dz-redux/theme-options.php:2168
+#: dz-inc/dz-redux/theme-options.php:2181 dz-inc/dz-redux/theme-options.php:2210
+#: dz-inc/dz-redux/theme-options.php:2902 dz-inc/dz-redux/theme-options.php:2910
+msgid "Enabled"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:254 dz-inc/dz-redux/page-options.php:298
+#: dz-inc/dz-redux/page-options.php:306 dz-inc/dz-redux/page-options.php:332
+#: dz-inc/dz-redux/page-options.php:420 dz-inc/dz-redux/page-options.php:451
+#: dz-inc/dz-redux/page-options.php:579 dz-inc/dz-redux/page-options.php:709
+#: dz-inc/dz-redux/page-options.php:828 dz-inc/dz-redux/page-options.php:883
+#: dz-inc/dz-redux/page-options.php:1310 dz-inc/dz-redux/page-options.php:1384
+#: dz-inc/dz-redux/page-options.php:1416 dz-inc/dz-redux/page-options.php:1559
+#: dz-inc/dz-redux/page-options.php:1632 dz-inc/dz-redux/page-options.php:1664
+#: dz-inc/dz-redux/theme-options.php:351 dz-inc/dz-redux/theme-options.php:438
+#: dz-inc/dz-redux/theme-options.php:450 dz-inc/dz-redux/theme-options.php:461
+#: dz-inc/dz-redux/theme-options.php:476 dz-inc/dz-redux/theme-options.php:491
+#: dz-inc/dz-redux/theme-options.php:502 dz-inc/dz-redux/theme-options.php:521
+#: dz-inc/dz-redux/theme-options.php:786 dz-inc/dz-redux/theme-options.php:804
+#: dz-inc/dz-redux/theme-options.php:893 dz-inc/dz-redux/theme-options.php:933
+#: dz-inc/dz-redux/theme-options.php:942 dz-inc/dz-redux/theme-options.php:951
+#: dz-inc/dz-redux/theme-options.php:966 dz-inc/dz-redux/theme-options.php:975
+#: dz-inc/dz-redux/theme-options.php:998 dz-inc/dz-redux/theme-options.php:1023
+#: dz-inc/dz-redux/theme-options.php:1032 dz-inc/dz-redux/theme-options.php:1232
+#: dz-inc/dz-redux/theme-options.php:1240 dz-inc/dz-redux/theme-options.php:1248
+#: dz-inc/dz-redux/theme-options.php:1257 dz-inc/dz-redux/theme-options.php:1276
+#: dz-inc/dz-redux/theme-options.php:1284 dz-inc/dz-redux/theme-options.php:1293
+#: dz-inc/dz-redux/theme-options.php:1301 dz-inc/dz-redux/theme-options.php:1310
+#: dz-inc/dz-redux/theme-options.php:1334 dz-inc/dz-redux/theme-options.php:1342
+#: dz-inc/dz-redux/theme-options.php:1470 dz-inc/dz-redux/theme-options.php:1665
+#: dz-inc/dz-redux/theme-options.php:1799 dz-inc/dz-redux/theme-options.php:2010
+#: dz-inc/dz-redux/theme-options.php:2069 dz-inc/dz-redux/theme-options.php:2169
+#: dz-inc/dz-redux/theme-options.php:2182 dz-inc/dz-redux/theme-options.php:2211
+#: dz-inc/dz-redux/theme-options.php:2903 dz-inc/dz-redux/theme-options.php:2911
+msgid "Disabled"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:267 dz-inc/dz-redux/page-options.php:834
+#: dz-inc/dz-redux/theme-options.php:1671 dz-inc/dz-redux/theme-options.php:2016
+msgid "Sidebar Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:268 dz-inc/dz-redux/page-options.php:835
+#: dz-inc/dz-redux/theme-options.php:1672
+msgid "Choose the layout for page. (Default : Right Side)."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:282
+msgid "Select sidebar."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:296
+msgid "Show Feature Image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:304
+msgid "Show Post Pagination"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:313 dz-inc/dz-redux/page-options.php:330
+#: dz-inc/dz-redux/page-options.php:1308 dz-inc/dz-redux/page-options.php:1557
+#: dz-inc/dz-redux/theme-options.php:1340
+msgid "Post Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:314 dz-inc/dz-redux/page-options.php:1292
+#: dz-inc/dz-redux/page-options.php:1541
+msgid "Settings for post banner."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:320
+msgid "Post Banner Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:344 dz-inc/dz-redux/theme-options.php:1349
+msgid "Post Banner Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:357 dz-inc/dz-redux/page-options.php:1336
+#: dz-inc/dz-redux/page-options.php:1584 dz-inc/dz-redux/theme-options.php:1374
+msgid "Post Banner Height"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:358 dz-inc/dz-redux/page-options.php:603
+#: dz-inc/dz-redux/page-options.php:1337 dz-inc/dz-redux/page-options.php:1585
+#: dz-inc/dz-redux/theme-options.php:1500
+msgid "Choose the height for all tag page banner. Default : Medium Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:372 dz-inc/dz-redux/theme-options.php:1383
+msgid "Post Banner Custom Height"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:373 dz-inc/dz-redux/theme-options.php:1384
+#: dz-inc/dz-redux/theme-options.php:1515
+msgid "Height description. Min: 100, max: 800"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:387 dz-inc/dz-redux/page-options.php:747
+#: dz-inc/dz-redux/page-options.php:1351 dz-inc/dz-redux/page-options.php:1599
+#: dz-inc/dz-redux/theme-options.php:1399 dz-inc/dz-redux/theme-options.php:1589
+#: dz-inc/dz-redux/theme-options.php:1931
+msgid "Post Banner Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:388 dz-inc/dz-redux/page-options.php:633
+#: dz-inc/dz-redux/page-options.php:1352 dz-inc/dz-redux/theme-options.php:1400
+#: dz-inc/dz-redux/theme-options.php:1531 dz-inc/dz-redux/theme-options.php:1844
+msgid "Choose the layout for all page banner. Default : Banner Layout 1"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:403 dz-inc/dz-redux/page-options.php:1367
+#: dz-inc/dz-redux/page-options.php:1615 dz-inc/dz-redux/theme-options.php:1415
+msgid "Post Banner Image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:404 dz-inc/dz-redux/page-options.php:650
+#: dz-inc/dz-redux/page-options.php:1368 dz-inc/dz-redux/page-options.php:1616
+#: dz-inc/dz-redux/theme-options.php:1416 dz-inc/dz-redux/theme-options.php:1547
+msgid ""
+"Enter page banner image. It will work as default banner image for all pages"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:405 dz-inc/dz-redux/page-options.php:651
+#: dz-inc/dz-redux/page-options.php:1235 dz-inc/dz-redux/page-options.php:1369
+#: dz-inc/dz-redux/page-options.php:1617 dz-inc/dz-redux/theme-options.php:1417
+#: dz-inc/dz-redux/theme-options.php:1548 dz-inc/dz-redux/theme-options.php:1875
+msgid "Upload banner image."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:416 dz-inc/dz-redux/page-options.php:705
+#: dz-inc/dz-redux/page-options.php:1380 dz-inc/dz-redux/page-options.php:1628
+#: dz-inc/dz-redux/theme-options.php:457
+msgid "Breadcrumb Area"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:417 dz-inc/dz-redux/page-options.php:706
+#: dz-inc/dz-redux/page-options.php:1381 dz-inc/dz-redux/page-options.php:1629
+#: dz-inc/dz-redux/theme-options.php:458
+msgid "Click on the tab to Enable / Disable the website breadcrumb."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:418 dz-inc/dz-redux/page-options.php:707
+#: dz-inc/dz-redux/page-options.php:1382 dz-inc/dz-redux/page-options.php:1630
+msgid "This setting affects only on this page."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:432
+msgid "Post Footer"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:433 dz-inc/dz-redux/page-options.php:865
+#: dz-inc/dz-redux/page-options.php:1398 dz-inc/dz-redux/page-options.php:1646
+msgid "Settings for footer area."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:439
+msgid "Post Footer Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:449 dz-inc/dz-redux/page-options.php:881
+#: dz-inc/dz-redux/page-options.php:1414 dz-inc/dz-redux/page-options.php:1662
+#: dz-inc/dz-redux/theme-options.php:996
+msgid "Footer"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:463 dz-inc/dz-redux/page-options.php:895
+#: dz-inc/dz-redux/page-options.php:1428 dz-inc/dz-redux/page-options.php:1676
+#: dz-inc/dz-redux/theme-options.php:1007
+msgid "Footer Template"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:464 dz-inc/dz-redux/page-options.php:896
+#: dz-inc/dz-redux/page-options.php:1429 dz-inc/dz-redux/page-options.php:1677
+#: dz-inc/dz-redux/theme-options.php:1008
+msgid "Choose a template for footer."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:491 dz-inc/dz-redux/theme-options.php:1455
+msgid "Page Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:528
+msgid "Page Header"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:529 dz-inc/dz-redux/page-options.php:975
+#: dz-inc/dz-redux/page-options.php:1188 dz-inc/dz-redux/page-options.php:1508
+msgid "Header settings for the page."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:535
+msgid "Page Header Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:546
+msgid "Choose header style. White header is set as default header for this page."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:560 dz-inc/dz-redux/page-options.php:577
+#: dz-inc/dz-redux/theme-options.php:1468 dz-inc/dz-redux/theme-options.php:1797
+msgid "Page Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:561 dz-inc/dz-redux/page-options.php:992
+msgid "Settings for page banner."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:567
+msgid "Page Banner Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:590 dz-inc/dz-redux/theme-options.php:1476
+#: dz-inc/dz-redux/theme-options.php:1806
+msgid "Page Banner Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:602 dz-inc/dz-redux/theme-options.php:1499
+#: dz-inc/dz-redux/theme-options.php:1829
+msgid "Page Banner Height"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:617 dz-inc/dz-redux/theme-options.php:1514
+#: dz-inc/dz-redux/theme-options.php:1857
+msgid "Page Banner Custom Height"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:618 dz-inc/dz-redux/theme-options.php:1858
+msgid "Hight description. Min: 100, max: 800"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:632 dz-inc/dz-redux/theme-options.php:1530
+#: dz-inc/dz-redux/theme-options.php:1843
+msgid "Page Banner Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:649 dz-inc/dz-redux/theme-options.php:1546
+#: dz-inc/dz-redux/theme-options.php:1873
+msgid "Page Banner Image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:664
+msgid "Page Banner Title"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:665
+msgid "Enter page banner title."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:680
+msgid "Page Banner Sub Title"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:681
+msgid "Enter page banner Sub title."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:720 dz-inc/dz-redux/theme-options.php:1888
+msgid "Don`t use banner image for this page"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:722 dz-inc/dz-redux/theme-options.php:1890
+msgid "Check if you don`t want to use banner image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:729 dz-inc/dz-redux/theme-options.php:1897
+msgid ""
+"If we don`t have suitable image then we can hide current or default banner "
+"images and show only banner container with theme default color."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:735 dz-inc/dz-redux/theme-options.php:1577
+#: dz-inc/dz-redux/theme-options.php:1919
+msgid "Number of Posts"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:736 dz-inc/dz-redux/theme-options.php:1578
+#: dz-inc/dz-redux/theme-options.php:1920
+msgid "Enter number of post. Default : 3"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:748 dz-inc/dz-redux/theme-options.php:1590
+#: dz-inc/dz-redux/theme-options.php:1932
+msgid "Select banner layout. Default : Full Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:765 dz-inc/dz-redux/theme-options.php:1607
+#: dz-inc/dz-redux/theme-options.php:1949
+msgid "Post Category"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:766 dz-inc/dz-redux/theme-options.php:1608
+msgid "Select post category. It will work as default banner for all pages"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:777 dz-inc/dz-redux/theme-options.php:1620
+#: dz-inc/dz-redux/theme-options.php:1962
+msgid "Post Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:779 dz-inc/dz-redux/theme-options.php:1622
+#: dz-inc/dz-redux/theme-options.php:1964
+#: dz-inc/elementor/elements/portfolio_1_element.php:93
+#: dz-inc/elementor/elements/portfolio_listing_1_element.php:151
+msgid "All"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:780 dz-inc/dz-redux/theme-options.php:1623
+#: dz-inc/dz-redux/theme-options.php:1965
+msgid "Featured"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:793 dz-inc/dz-redux/theme-options.php:1636
+#: dz-inc/dz-redux/theme-options.php:1978
+msgid "Items With"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:795 dz-inc/dz-redux/theme-options.php:1638
+#: dz-inc/dz-redux/theme-options.php:1980
+msgid "Any Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:796 dz-inc/dz-redux/theme-options.php:1639
+#: dz-inc/dz-redux/theme-options.php:1981
+msgid "With Featured Image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:797 dz-inc/dz-redux/theme-options.php:1640
+#: dz-inc/dz-redux/theme-options.php:1982
+msgid "Without Featured Iimage"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:810
+msgid "Page Sidebar"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:811
+msgid "Settings for sidebar area."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:818
+msgid "Sidebar Information!"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:820
+msgid "These settings only working with default template in page attribute."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:849
+msgid "Select sidebar for the page"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:864
+msgid "Page Footer"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:871
+msgid "Page Footer Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:923
+msgid "Team Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:960
+msgid "Featured Post"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:982 dz-inc/dz-redux/page-options.php:1097
+msgid "Designation"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:983 dz-inc/dz-redux/page-options.php:1098
+msgid "Enter client designation"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:991
+msgid "Social Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1000
+msgid "Facebook Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1001
+msgid "Enter Facebook Url"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1008
+msgid "Twitter Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1009
+msgid "Enter Twitter Url"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1016
+msgid "Instagram Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1017
+msgid "Enter Instagram Url"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1024
+msgid "Youtube Link"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1025
+msgid "Enter Youtube Url"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1040
+msgid "Testimonial Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1077 dz-inc/dz-redux/page-options.php:1173
+#: dz-inc/dz-redux/page-options.php:1493
+msgid "Feature Post"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1105
+msgid "Rating"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1106
+msgid "Select Rating."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1121
+msgid "Rating Title"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1122
+msgid "Enter Rating Title"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1136
+msgid "Service Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1187
+msgid "Service Page Header"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1195 dz-inc/dz-redux/page-options.php:1515
+#: dz-inc/dz-redux/theme-options.php:907
+msgid "Header Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1206 dz-inc/dz-redux/page-options.php:1526
+msgid ""
+"Choose header style. White header is set as default header for this service."
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1226
+msgid "Subtitle"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1227
+msgid "Enter Subtitle"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1228
+msgid "Rules Of Business"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1234
+msgid "Service Icon image"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1241 dz-inc/dz-redux/page-options.php:1253
+#: dz-inc/dz-redux/page-options.php:1265 dz-inc/dz-redux/page-options.php:1277
+#: dz-inc/elementor/ajax/service_listing_1_ajax.php:168
+msgid "Service Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1243
+msgid "Font Awesome"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1244
+msgid "Flat Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1245
+msgid "Themify Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1247 dz-inc/dz-redux/page-options.php:1255
+#: dz-inc/dz-redux/page-options.php:1267 dz-inc/dz-redux/page-options.php:1279
+msgid "Select Service Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1291
+msgid "Service Post Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1298
+msgid "Service Post Banner Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1324
+msgid "Service Post Banner Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1397
+msgid "Service Post Footer"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1404
+msgid "Service Post Footer Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1456
+msgid "Portfolio Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1507
+msgid "Portfolio Page Header"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1540
+msgid "Portfolio Post Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1547
+msgid "Portfolio Post Banner Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1571
+msgid "Portfolio Post Banner Type"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1600
+msgid "Choose the layout for all post banner. Default : Banner Layout 1"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1645
+msgid "Portfolio Post Footer"
+msgstr ""
+
+#: dz-inc/dz-redux/page-options.php:1652
+msgid "Portfolio Post Footer Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:120 dz-inc/dz-redux/theme-options.php:121
+#: dz-inc/library/class-menu-handle.php:146
+msgid "Theme Options"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:276 dz-inc/dz-redux/theme-options.php:1207
+#: dz-inc/dz-redux/theme-options.php:1460
+msgid "General Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:277
+msgid ""
+"General Settings is a global setting that will affects all the pages of you "
+"website. From here you can make changes globaly. The setting will apply if "
+"there is no individual settings."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:283
+msgid "Website Status"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:284
+msgid "Click on the option tabs to change the status of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:285
+msgid "Select option tabs to change the status."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:287
+msgid "Live"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:288
+msgid "Coming Soon"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:289
+msgid "Site Down For Maintenance"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:293
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2658
+msgid "Status"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:294
+msgid "1. Live status indicate that your website is available and operational."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:294
+msgid ""
+"2. Coming Soon status show your website visitors that you are working on your "
+"website for making it better."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:294
+msgid ""
+"3. Maintenance mode show your website visitors that you are working on your "
+"website for making it better."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:294
+msgid ""
+" Coming soon template and maintenance template will not show when user login."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:301
+msgid "Coming Soon Template"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:302
+msgid "Choose the template for Coming Soon page. (Default : 1)."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:303 dz-inc/dz-redux/theme-options.php:360
+msgid "Click on the icon to change the template."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:308 dz-inc/dz-redux/theme-options.php:365
+msgid "Hint Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:309
+msgid "Choose the coming soon template design as you want to show."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:315
+msgid "Coming soon Date"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:322
+msgid "Coming Soon Page Background"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:331
+msgid "Comingsoon Soon Page Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:332
+msgid "Default Comingsoon Soon page title."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:333
+msgid "WE ARE DOING GREAT"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:333
+msgid "ALMOST DONE..."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:340
+msgid "Comingsoon Soon Page Button Url"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:341
+msgid "Enter Comingsoon Soon Page Button Url"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:348
+msgid "Subscribe Button"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:349
+msgid "Show or hide the subscribe button."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:358
+msgid "Maintenance Template"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:359
+msgid "Choose the template for Maintenance page. (Default : 1)."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:366
+msgid "Choose the maintenance template design as you want to show."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:374
+msgid "Maintenance Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:385 dz-inc/dz-redux/theme-options.php:2548
+#: dz-inc/dz-redux/theme-options.php:2555
+msgid "Background Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:395
+msgid "Maintenance Page Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:397
+#: dz-inc/elementor/elements/sitedown_element.php:5
+#: dz-inc/elements/maintinance/maintinance_1.php:5
+#: dz-inc/elements/maintinance/maintinance_2.php:5
+#: dz-inc/elements/maintinance/maintinance_3.php:5
+msgid "Site Is Down"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:397
+#: dz-inc/elementor/elements/sitedown_element.php:5
+#: dz-inc/elements/maintinance/maintinance_1.php:5
+#: dz-inc/elements/maintinance/maintinance_2.php:5
+#: dz-inc/elements/maintinance/maintinance_3.php:5
+msgid "For Maintenance"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:402
+msgid "Maintenance Page Description"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:404
+#: dz-inc/elementor/elements/sitedown_element.php:6
+#: dz-inc/elements/maintinance/maintinance_1.php:6
+#: dz-inc/elements/maintinance/maintinance_2.php:6
+#: dz-inc/elements/maintinance/maintinance_3.php:6
+msgid "This is the Technical Problems Page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:404
+#: dz-inc/elementor/elements/sitedown_element.php:6
+#: dz-inc/elements/maintinance/maintinance_1.php:6
+#: dz-inc/elements/maintinance/maintinance_2.php:6
+#: dz-inc/elements/maintinance/maintinance_3.php:6
+msgid "Or any other page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:409
+msgid "Logo Type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:410
+msgid "Choose the logo type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:411
+msgid "Click o the tab to change the logo type."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:413
+msgid "Image Logo"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:414
+msgid "Text Logo"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:418
+msgid "Choose Logo Type:"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:419
+msgid ""
+"1. Image Logo will be the .pmg / .jpg type. This setting affects all the site "
+"pages."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:419
+msgid "2. Text Logo will the text type. This setting affects all the site pages."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:426
+msgid "Blog Page Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:427
+msgid "Default blog page title."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:428 dz-inc/library/functions.php:1218
+#: dz-inc/library/functions.php:1353 dz-inc/library/functions_10_sep_2021.php:1263
+#: dz-inc/library/functions_10_sep_2021.php:1387
+msgid "Blog"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:434
+msgid "Page Loading"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:435
+msgid "Click on the tab to Enable / Disable the page loading setting."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:436 dz-inc/dz-redux/theme-options.php:448
+#: dz-inc/dz-redux/theme-options.php:459 dz-inc/dz-redux/theme-options.php:474
+#: dz-inc/dz-redux/theme-options.php:489
+msgid "Once you click on disable, This setting affects all the site pages."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:446
+msgid "Social Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:447
+msgid "Click on the tab to Enable / Disable the social icon setting."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:465
+msgid "Select Breadcrumb Area:"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:466
+msgid ""
+"This breadcrumb option only works when page level banner Theme Settings option "
+"selected. This option will not work when custom settings selected."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:472
+msgid "Login / Register"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:473
+msgid "Click on the tab to Enable / Disable the login / register button / likns."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:480
+msgid "Login/Register Visible"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:481
+msgid "This is show in top bar."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:488
+msgid "Click on the tab to Enable / Disable the sidebar."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:499
+msgid "RTL"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:500
+msgid "Click on the tab to Enable / Disable right to left view."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:510
+msgid "Map Api Key"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:511
+msgid "Input an API key to enable map."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:518
+msgid "Mailchimp"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:519
+msgid "Click on the tab to Enable / Disable mailchimp subscription."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:528
+msgid "MailChimp Api Key"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:529
+msgid "Input an API key to enable MailChimp."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:542
+msgid "MailChimp List ID"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:543
+msgid "Input an List ID to enable MailChimp."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:556
+msgid "Subscribtion Popup Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:557
+msgid "SUBSCRIBE TO OUR NEWSLETTER"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:559 dz-inc/dz-redux/theme-options.php:572
+msgid "Subscribtion Pop Up"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:560 dz-inc/dz-redux/theme-options.php:573
+msgid "Enable/Disable Setting Is Available On Coming Soon Page Setting."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:567
+msgid "Subscribtion Popup Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:580 dz-inc/elements/footer/footer_3.php:22
+msgid "Phone Number"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:581 dz-inc/dz-redux/theme-options.php:589
+#: dz-inc/dz-redux/theme-options.php:598
+msgid "Show in header top "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:588
+msgid "Address"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:590
+msgid "6701 Democracy Blvd, Suite 300, USA"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:597 dz-inc/library/functions.php:263
+#: dz-inc/library/functions_10_sep_2021.php:242
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:607
+msgid "Booking Page Url"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:608
+msgid "Enter Booking Page Url"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:620
+msgid "Logo Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:627 dz-inc/dz-redux/theme-options.php:634
+msgid "Favicon"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:628
+msgid "Select favicon image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:629
+msgid "Upload favicon image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:635
+msgid ""
+"From here you can upload an image. This setting affects all the site pages."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:641
+msgid "Logo Text"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:642
+msgid "Name your text logo."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:648
+msgid "Tag Line"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:649
+msgid "Name a tagline for the text logo."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:655
+msgid "Logo Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:656
+msgid ""
+"Title attribute for the logo. This attribute specifies extra information about "
+"the logo. Most browsers will show a tooltip with this text on logo hover."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:663
+msgid "Logo Alt"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:664
+msgid ""
+"Alt attribute for the logo. This is the alternative text if the logo cannot be "
+"displayed. It`s useful for SEO and generally is the name of the site."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:670
+msgid "Site Logo Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:677
+msgid "Logo Icon"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:678
+msgid "Upload your logo Icon(272 x 90px) .png or .jpg"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:687
+msgid "Logo"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:688 dz-inc/dz-redux/theme-options.php:698
+msgid "Upload your logo (272 x 90px) .png or .jpg"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:697
+msgid "Other Logo"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:768
+msgid "Header Information!"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:770
+msgid "header settings display here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:783
+msgid "Top Bar"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:784
+msgid "Show or hide the top bar."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:801 dz-inc/dz-redux/theme-options.php:2869
+msgid "Social Link"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:802 dz-inc/dz-redux/theme-options.php:891
+msgid "Show or hide the hader social link option."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:822
+msgid "Choose for this Header"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:823
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:824
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:851 dz-inc/dz-redux/theme-options.php:862
+#: dz-inc/dz-redux/theme-options.php:1090 dz-inc/dz-redux/theme-options.php:1101
+msgid "Button "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:851 dz-inc/dz-redux/theme-options.php:1090
+msgid " Text"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:862 dz-inc/dz-redux/theme-options.php:1101
+#: dz-inc/dz-redux/theme-options.php:2862
+msgid " URL"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:874 dz-inc/dz-redux/theme-options.php:1113
+msgid "Choose Button "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:874 dz-inc/dz-redux/theme-options.php:1113
+msgid " Target"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:890
+msgid "Header Social Link"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:908
+msgid "Describe header settings here....................."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:915
+msgid "Choose header style. White header is set as default header for all theme."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:921
+msgid "This is the content of the tool-tip"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:930 dz-inc/dz-redux/theme-options.php:963
+#: dz-inc/elements/header_top_bar.php:36 dz-inc/elements/header_top_bar1.php:31
+#: dz-inc/elements/header_top_bar2.php:39 dz-inc/elements/header_top_bar3.php:39
+#: dz-inc/elements/header_top_bar4.php:39 dz-inc/elements/header_top_bar5.php:39
+msgid "Login"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:931 dz-inc/dz-redux/theme-options.php:964
+msgid "Show or hide the header login option."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:939 dz-inc/dz-redux/theme-options.php:972
+#: woocommerce/myaccount/form-login.php:117
+msgid "Register"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:940 dz-inc/dz-redux/theme-options.php:973
+msgid "Show or hide the header register option."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:948
+msgid "Sticky Header"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:949
+msgid "Header will be sticked when applicable."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:957
+msgid "Mobile Device Options"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1021
+msgid "Footer Top On"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1030
+msgid "Footer Bottom On"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1067
+msgid "Footer Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1068
+msgid "Show or hide the image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1133 dz-inc/dz-redux/theme-options.php:1144
+msgid "Field "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1133
+msgid " Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1144
+msgid " Content"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1161
+msgid "Copyright Text"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1162
+msgid "Write footer copyright text here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1163
+msgid "Copyright © 2021"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1163
+msgid "DexignZone"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1163
+msgid "All rights reserved."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1172
+msgid "Footer Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1173
+msgid ""
+"The footer uses widgets to show information. Here you can customize the number "
+"of layouts. In order to add widgets to the footer go to footer widgets section "
+"and drag widget to the footer block (s)."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1173
+msgid "Footer blocks are change according to footer templates."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1183
+msgid "Menu Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1191
+msgid "Choose Scroll Menu Pages"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1192
+msgid "Select Page For One Page Menus"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1208
+msgid ""
+"This option will work on all new post and edit post sections. On new post page "
+"we will display only Post Layout Selection , all other settings will be "
+"applicable from here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1216
+msgid "Single Post Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1217
+msgid "Select a layout for post page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1223
+msgid ""
+"Once you select the template from here the template will apply for default post "
+"page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1230
+msgid "Date"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1238
+msgid "Comment Count"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1246
+msgid "Comment View"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1255
+msgid "Post View"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1263
+msgid "Post Start View"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1265
+msgid "Enter only number."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1267
+msgid "Post Views"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1268
+msgid ""
+"We will display view count by adding this number in original post views. It "
+"will help to build post reputation on blog."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1274
+msgid "Author Box"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1282 dz-inc/library/widgets.php:66
+#: dz-inc/library/widgets.php:363
+msgid "Category"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1291
+msgid "Previous & Next Post"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1299
+msgid "Featured Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1308
+msgid "Related Post"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1317
+msgid "Related Post Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1331
+msgid "Show Image On Post List"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1332
+msgid "Show feature image on post listing in admin panel."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1362
+msgid "Banner Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1375
+msgid "Choose the height for all tag page banner. Default : Small Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1435
+msgid "Custom Post Background Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1436
+msgid "Choose custom background image for post single page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1437
+msgid "Upload background image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1488 dz-inc/dz-redux/theme-options.php:1818
+msgid "Image Banner Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1566 dz-inc/dz-redux/theme-options.php:1908
+msgid "Post Banner Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1609 dz-inc/dz-redux/theme-options.php:1951
+msgid "Allow you to select multiple categories."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1657 dz-inc/dz-redux/theme-options.php:2002
+msgid "Sidebar Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1686
+msgid "Select sidebar for all pages"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1705 dz-inc/dz-redux/theme-options.php:2055
+msgid "Pagination"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1707 dz-inc/dz-redux/theme-options.php:2057
+#: dz-inc/dz-redux/theme-options.php:2330 dz-inc/dz-redux/theme-options.php:2659
+msgid "Default"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1708 dz-inc/dz-redux/theme-options.php:2058
+#: dz-inc/elementor/elements/portfolio_listing_1_element.php:205
+#: dz-inc/elementor/elements/portfolio_listing_2_element.php:147
+#: dz-inc/elementor/elements/post_listing_7_element.php:123
+#: dz-inc/elementor/elements/service_listing_1_element.php:239
+#: dz-inc/elementor/elements/service_listing_2_element.php:135
+#: dz-inc/elementor/elements/service_listing_3_element.php:122
+#: dz-inc/elementor/elements/team_listing_1_element.php:174
+#: dz-inc/elements/archive_page_ajax_posts_element.php:70
+#: dz-inc/elements/author_page_ajax_posts_element.php:71
+#: dz-inc/elements/category_page_ajax_posts_element.php:74
+#: dz-inc/elements/index_page_ajax_posts_element.php:29
+msgid "Load More"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1719
+msgid ""
+"The author template is shown when a user clicks on the author in the front end "
+"of the site."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1725
+msgid ""
+"The category template is shown when a user clicks on the category in the front "
+"end of the site."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1731
+msgid "Set the default layout for all the search page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1737
+msgid ""
+"This template is used by WordPress to generate the archives. By default "
+"WordPress generates daily, monthly and yearly archives."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1743
+msgid "Set the default layout for all the tag page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1754
+msgid "Set the default layout for all the woo-commerce pages."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1756 dz-inc/dz-redux/theme-options.php:2159
+msgid "WooCommerce"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1790 dz-inc/dz-redux/theme-options.php:2111
+msgid "Page Title"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1791
+msgid " : "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1830
+msgid "Choose the height for page banner. Default : Medium Banner"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1874
+msgid ""
+"Enter page banner image. It will work as default banner image for the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:1950
+msgid "Select post category. It will work as default banner for the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2017
+msgid "Choose the layout for the page. (Default : Right Side)."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2031
+msgid "Select sidebar for the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2067
+msgid "Sorting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2075 dz-inc/dz-redux/theme-options.php:2076
+#: dz-inc/dz-redux/theme-options.php:2077
+msgid "Select Sorting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2093
+msgid " Page"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2103
+msgid "404 Page"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2112 functions.php:912
+msgid "404"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2120
+msgid "404 Template"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2121
+msgid "Select a template for the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2133
+msgid "404 Page Text"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2134 functions.php:915
+msgid "We are sorry. But the page you are looking for cannot be found."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2140
+msgid "404 Page Button Text"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2141
+msgid "BACK TO HOME PAGE"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2154
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2166
+msgid "Cart Enable"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2167
+msgid "Click on the tab to show / hide cart from header."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2172
+msgid "Cart Visible"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2173
+msgid "Cart will show in top bar."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2179
+msgid "Cart On Mobile Enable"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2180
+msgid "Click on the tab to show / hide cart in mobile view."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2188
+msgid "Number of Product Display Per Page"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2189
+msgid "Show number of product page"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2198
+msgid "Product Columns"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2208
+msgid "Show Related Product"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2209
+msgid "Click on the tab to show / hide related products on single product page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2217
+msgid "Related Product"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2232
+msgid "Theme Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2237
+msgid "Color & Design"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2244
+msgid "Theme Color Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2245
+msgid "Choose Color Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2247
+msgid "Predefined Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2248
+msgid "Custom Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2258
+msgid "Theme Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2259
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2273
+msgid "Primary Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2285
+msgid "Secondary Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2297
+msgid "Link Colors"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2314
+msgid "Theme Corner Settings"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2315
+msgid "Choose Theme Corner Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2317
+msgid "Rounded"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2318
+msgid "Sharp"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2327
+msgid "Theme Font Style"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2328
+msgid "Choose Font Style Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2331
+msgid "Oswald Style"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2332
+msgid "Montserrat Style"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2336
+msgid ""
+"Oswald style is using in mining demo and Monestrrat style is using in solar "
+"demo."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2344
+msgid "Round Corner"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2345
+msgid "Round Corner . Min: 10, max: 50, default value: 10"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2367
+msgid "Page Loader Type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2368
+msgid "Select Loader Type."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2369
+msgid "Choose Loading Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2371
+msgid "Loading Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2372
+msgid "Advanced Page Loader"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2379 dz-inc/dz-redux/theme-options.php:2386
+msgid "Loding Image (Gif)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2380
+msgid "Select Gif Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2381 dz-inc/dz-redux/theme-options.php:2387
+#: dz-inc/dz-redux/theme-options.php:2404
+msgid "Choose Gif Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2399 dz-inc/dz-redux/theme-options.php:2403
+msgid "Custom Loding Image (Gif)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2400
+msgid "Select Custom Loding Gif Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2401
+msgid "Choose Gif Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2415
+msgid "Advanced Loding Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2416
+msgid "Select Advance Loding Image (Gif)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2417 dz-inc/dz-redux/theme-options.php:2426
+msgid "Choose Advance Loding Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2425
+msgid "Advance Loding Image (Gif)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2437
+msgid "Theme Layout"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2438
+msgid "Choose theme layout."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2439
+msgid "Click in the image icon to select the theme layout (Default : Full Width)."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2445
+msgid "1. Full Width: the web pages will be full width as shown in image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2445
+msgid ""
+"2. Boxed: with the box layout the padding will be apply on two sides (Left, "
+"Right) of the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2445
+msgid ""
+"3. Frame: with the frame layout the padding will be apply on all the sides "
+"(Top, Right, Bottom, Left) of the page."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2451
+msgid "Padding"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2452
+msgid "Padding description. Min: 10, max: 100, default value: 20"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2468
+msgid "Background Type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2469
+msgid "Select the background type."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2470
+msgid "Click on the tab to choose background type"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2472
+msgid "Type Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2473
+msgid "Type Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2474
+msgid "Type Pattern"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2479
+msgid "1. Type Color: page background will be type color."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2479
+msgid "2. Type Image: page background will be type image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2479
+msgid "3. Type Pattern: page background will be type pattern."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2493
+msgid "Background Color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2494
+msgid "Select background color"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2495
+msgid "Click on the image icon to choose background color."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2500
+msgid "Write title text here"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2501
+msgid "Write content text here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2513
+msgid "(Optional) Choose background color as gradient color."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2537
+msgid "1. Click on Select Color button content text here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2537
+msgid "2. Select the color as you want and ckick on Choose."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2537
+msgid "3. On top / bottom of the panel click on Save Changes button."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2549
+msgid "Select Background Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2550
+msgid "Choose Background Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2556
+msgid "Choose Background Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2569 dz-inc/dz-redux/theme-options.php:2576
+msgid "Custom Background Image"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2570
+msgid "Select Custom Background Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2571 dz-inc/dz-redux/theme-options.php:2577
+msgid "Choose Custom Background Image."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2588 dz-inc/dz-redux/theme-options.php:2595
+msgid "Background Pattern"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2589
+msgid "Select Background Pattern."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2590 dz-inc/dz-redux/theme-options.php:2596
+msgid "Choose Background Pattern."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2610 dz-inc/dz-redux/theme-options.php:2617
+msgid "Custom Background Pattern"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2611
+msgid "Select Custom Background Pattern."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2612 dz-inc/dz-redux/theme-options.php:2618
+msgid "Choose Custom Background Pattern."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2635
+msgid "Choose fonts and font sizes for all pages"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2660
+msgid "Google Fonts"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2667
+msgid "Body"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2668
+msgid "This will be the default font for body tag of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2689
+msgid "H1"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2690
+msgid "This will be the default font for all H1 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2710
+msgid "H2"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2711
+msgid "This will be the default font for all H2 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2731
+msgid "H3"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2732
+msgid "This will be the default font for all H3 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2752
+msgid "H4"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2753
+msgid "This will be the default font for all H4 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2773
+msgid "H5"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2774
+msgid "This will be the default font for all H5 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2794
+msgid "H6"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2795
+msgid "This will be the default font for all H6 tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2815
+msgid "P (Paragraph Text)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2816
+msgid "This will be the default font for all P tags of your website."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2841
+msgid "Social Setting"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2848
+msgid "Choose Social Link Target"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2863
+msgid "Link to : "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2894 dz-inc/dz-redux/theme-options.php:2917
+msgid "Social Sharing"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2901
+msgid "Enable Social Shaing On Post"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2909
+msgid "Enable Social Shaing On Page"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2918
+msgid "Select active social share links and sort them with drag and drop."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2931 dz-inc/dz-redux/theme-options.php:2936
+msgid "Custom Script"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2943
+msgid "Body Class(s)"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2944
+msgid ""
+"You can add one or more classes on theme body element. If you need more then "
+"one class, add them with a space between them."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2945
+msgid "Ex: body-class-1 body-class-2"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2950
+msgid "CSS Code"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2951
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2958
+msgid "Javascript Code"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2959
+msgid "Paste your JS code here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2966
+msgid "HTML Code"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2967
+msgid "Paste your HTML code here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2975
+msgid "Analytic Code"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2984
+msgid "Header Custom Codes"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2985
+msgid "It will insert the code to wp_head hook."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2991
+msgid "Footer Custom Codes"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:2992
+msgid "It will insert the code to wp_footer hook."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3001
+msgid "Advance Options"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3008
+msgid "Sidebar Name"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3009
+msgid "Name your sidebar!"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3010
+msgid "Enter the text only. "
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3010
+msgid "Click Here."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3010
+msgid " to check your sidebars"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3012
+msgid "What to Do?"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3013
+msgid ""
+"1. Once you named your sidebar click on the Save Changes button @ the top of "
+"the panel."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3013
+msgid ""
+"2. After save changes please just refresh the page, you will see the sidebar "
+"listed below."
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3043
+msgid "Create Sidebar"
+msgstr ""
+
+#: dz-inc/dz-redux/theme-options.php:3045
+msgid ""
+"Dexignlab gives you the functionality to create your own Sidebars. Default "
+"there are three Sidebars as display below."
+msgstr ""
+
+#: dz-inc/elementor/ajax/post_listing_4_ajax.php:81
+#: dz-inc/elementor/ajax/post_listing_5_ajax.php:67
+#: dz-inc/elementor/ajax/service_listing_1_ajax.php:118
+#: dz-inc/elementor/ajax/service_listing_1_ajax.php:157
+#: dz-inc/elementor/ajax/service_listing_1_ajax.php:184
+#: dz-inc/elements/related_element.php:123
+msgid "Read More"
+msgstr ""
+
+#: dz-inc/elementor/ajax/service_listing_2_ajax.php:56
+msgid "Learn More"
+msgstr ""
+
+#: dz-inc/elementor/ajax/service_listing_3_ajax.php:64
+#: dz-inc/elementor/ajax/service_listing_3_ajax.php:79
+msgid "ABOUT US"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:46
+#: dz-inc/elements/comingsoon/comingsoon_1.php:46
+msgid "Days"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:50
+#: dz-inc/elements/comingsoon/comingsoon_1.php:50
+msgid "Hours"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:54
+#: dz-inc/elements/comingsoon/comingsoon_1.php:54
+msgid "Minutes"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:58
+#: dz-inc/elements/comingsoon/comingsoon_1.php:58
+msgid "Second"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:64
+#: dz-inc/elements/comingsoon/comingsoon_1.php:64
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: dz-inc/elementor/elements/comingsoon_element.php:70
+#: dz-inc/elements/comingsoon/comingsoon_1.php:70
+msgid "SUBSCRIBE NOW"
+msgstr ""
+
+#: dz-inc/elementor/elements/content_box_11_element.php:8
+msgid "Since"
+msgstr ""
+
+#: dz-inc/elementor/elements/home_slider_6_element.php:60
+msgid "Electrician Worker"
+msgstr ""
+
+#: dz-inc/elementor/elements/newsletter_section_1_element.php:28
+#: dz-inc/elements/footer/footer_9.php:25
+msgid "Enter Your Email Address..."
+msgstr ""
+
+#: dz-inc/elementor/elements/newsletter_section_1_element.php:30
+msgid "Subscribe Now"
+msgstr ""
+
+#: dz-inc/elementor/elements/portfolio_detail_1_element.php:22
+#: dz-inc/elementor/elements/portfolio_detail_2_element.php:23
+msgid "Project Category"
+msgstr ""
+
+#: dz-inc/elementor/elements/portfolio_detail_1_element.php:33
+#: dz-inc/elementor/elements/portfolio_detail_2_element.php:36
+msgid "Client Company"
+msgstr ""
+
+#: dz-inc/elementor/elements/portfolio_detail_1_element.php:43
+#: dz-inc/elementor/elements/portfolio_detail_2_element.php:49
+msgid "Project Date"
+msgstr ""
+
+#: dz-inc/elementor/elements/portfolio_detail_4_element.php:95
+msgid "Design"
+msgstr ""
+
+#: dz-inc/elementor/elements/post_listing_1_element.php:146
+#: dz-inc/elementor/elements/post_listing_2_element.php:164
+#: dz-inc/elementor/elements/post_listing_3_element.php:147
+#: dz-inc/elementor/elements/post_listing_4_element.php:145
+#: dz-inc/elementor/elements/post_listing_5_element.php:147
+#: dz-inc/elementor/elements/post_listing_6_element.php:147
+#: dz-inc/elements/search_page_ajax_posts_element.php:66
+#: dz-inc/elements/tag_page_ajax_posts_element.php:67
+msgid "LOAD MORE"
+msgstr ""
+
+#: dz-inc/elementor/elements/post_slider_2_element.php:193
+msgid "Your Email Address"
+msgstr ""
+
+#: dz-inc/elementor/elements/post_slider_2_element.php:195
+msgid "Subscribe"
+msgstr ""
+
+#: dz-inc/elements/author_block_element.php:11
+#: dz-inc/elements/author_information_page_element.php:11
+msgid "Profile Pic"
+msgstr ""
+
+#: dz-inc/elements/footer/footer_3.php:37 dz-inc/library/widgets.php:882
+#: dz-inc/library/widgets.php:964
+msgid "Email Address"
+msgstr ""
+
+#: dz-inc/elements/header/header_1.php:38 dz-inc/elements/header/header_2.php:38
+#: dz-inc/elements/header/header_3.php:49 dz-inc/elements/header/header_5.php:47
+#: dz-inc/elements/header/header_6.php:39 dz-inc/elements/header/header_7.php:49
+#: dz-inc/elements/header/header_8.php:40 dz-inc/elements/header/header_9.php:38
+#: functions.php:1260
+msgid "View your shopping cart"
+msgstr ""
+
+#: dz-inc/elements/header/header_1.php:39 dz-inc/elements/header/header_2.php:39
+#: dz-inc/elements/header/header_3.php:50 dz-inc/elements/header/header_5.php:48
+#: dz-inc/elements/header/header_6.php:40 dz-inc/elements/header/header_7.php:50
+#: dz-inc/elements/header/header_8.php:41 dz-inc/elements/header/header_9.php:39
+#: functions.php:1260
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: dz-inc/elements/header/header_1.php:117
+#: dz-inc/elements/header/header_10.php:105
+#: dz-inc/elements/header/header_2.php:114 dz-inc/elements/header/header_3.php:126
+#: dz-inc/elements/header/header_4.php:83 dz-inc/elements/header/header_5.php:125
+#: dz-inc/elements/header/header_6.php:115 dz-inc/elements/header/header_7.php:126
+#: dz-inc/elements/header/header_9.php:114
+msgid "Sign In"
+msgstr ""
+
+#: dz-inc/elements/header/header_1.php:121
+#: dz-inc/elements/header/header_10.php:109
+#: dz-inc/elements/header/header_2.php:118 dz-inc/elements/header/header_3.php:130
+#: dz-inc/elements/header/header_4.php:87 dz-inc/elements/header/header_5.php:129
+#: dz-inc/elements/header/header_6.php:119 dz-inc/elements/header/header_7.php:130
+#: dz-inc/elements/header/header_9.php:118
+msgid "Sign Up"
+msgstr ""
+
+#: dz-inc/elements/page_no_record_found_element.php:2
+msgid "No result found. Perhaps searching can help."
+msgstr ""
+
+#: dz-inc/elements/pagination_element.php:38
+msgid "Start"
+msgstr ""
+
+#: dz-inc/elements/pagination_element.php:71
+#: dz-inc/elements/pagination_element.php:73
+msgid "Prev Post"
+msgstr ""
+
+#: dz-inc/elements/pagination_element.php:76
+#: dz-inc/elements/pagination_element.php:78
+msgid "Next Post"
+msgstr ""
+
+#: dz-inc/elements/related_element.php:38
+msgid "Related Blogs"
+msgstr ""
+
+#: dz-inc/elements/tag_block_element.php:4
+msgid "Tags"
+msgstr ""
+
+#: dz-inc/library/class-menu-handle.php:51
+#: dz-inc/library/class-menu-handle.php:113
+#: dz-inc/library/class-menu-handle.php:118
+msgid "Dashboard"
+msgstr ""
+
+#: dz-inc/library/class-menu-handle.php:57 dz-inc/library/class-menu-handle.php:58
+msgid "DZ Plugins"
+msgstr ""
+
+#: dz-inc/library/class-menu-handle.php:129
+#: dz-inc/library/class-menu-handle.php:134
+msgid "Import Demo"
+msgstr ""
+
+#: dz-inc/library/class-menu-handle.php:151
+msgid "Import Demos"
+msgstr ""
+
+#: dz-inc/library/functions.php:47 dz-inc/library/functions_10_sep_2021.php:47
+msgid "Home"
+msgstr ""
+
+#: dz-inc/library/functions.php:123 dz-inc/library/functions.php:128
+#: dz-inc/library/functions.php:133 dz-inc/library/functions.php:138
+#: dz-inc/library/functions_10_sep_2021.php:123
+#: dz-inc/library/functions_10_sep_2021.php:128
+#: dz-inc/library/functions_10_sep_2021.php:133
+#: dz-inc/library/functions_10_sep_2021.php:138
+msgid "Archive for "
+msgstr ""
+
+#: dz-inc/library/functions.php:142 dz-inc/library/functions_10_sep_2021.php:142
+msgid "Search Results for "
+msgstr ""
+
+#: dz-inc/library/functions.php:145 dz-inc/library/functions_10_sep_2021.php:145
+msgid "404 - Not Found"
+msgstr ""
+
+#: dz-inc/library/functions.php:191 dz-inc/library/functions_10_sep_2021.php:188
+msgid "says:"
+msgstr ""
+
+#: dz-inc/library/functions.php:193 dz-inc/library/functions_10_sep_2021.php:190
+msgid "at"
+msgstr ""
+
+#: dz-inc/library/functions.php:262 dz-inc/library/functions_10_sep_2021.php:241
+msgid "Author"
+msgstr ""
+
+#: dz-inc/library/functions.php:266 dz-inc/library/functions_10_sep_2021.php:244
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: dz-inc/library/functions.php:278 dz-inc/library/functions_10_sep_2021.php:256
+msgid "Type Comment Here"
+msgstr ""
+
+#: dz-inc/library/functions.php:280 dz-inc/library/functions_10_sep_2021.php:257
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: dz-inc/library/functions.php:281 dz-inc/library/functions_10_sep_2021.php:258
+msgid "Log out of this account"
+msgstr ""
+
+#: dz-inc/library/functions.php:281 dz-inc/library/functions_10_sep_2021.php:258
+msgid "Log out?"
+msgstr ""
+
+#: dz-inc/library/functions.php:281 dz-inc/library/functions_10_sep_2021.php:258
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\""
+msgstr ""
+
+#: dz-inc/library/functions.php:287 dz-inc/library/functions_10_sep_2021.php:263
+msgid "Leave Your Comment"
+msgstr ""
+
+#: dz-inc/library/functions.php:288 dz-inc/library/functions_10_sep_2021.php:264
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: dz-inc/library/functions.php:289 dz-inc/library/functions_10_sep_2021.php:265
+msgid "Cancel reply"
+msgstr ""
+
+#: dz-inc/library/functions.php:290 dz-inc/library/functions_10_sep_2021.php:266
+msgid "Post Comment"
+msgstr ""
+
+#: dz-inc/library/functions.php:373 dz-inc/library/functions_10_sep_2021.php:437
+msgid "Prev"
+msgstr ""
+
+#: dz-inc/library/functions.php:374 dz-inc/library/functions_10_sep_2021.php:438
+msgid "Next"
+msgstr ""
+
+#: dz-inc/library/functions.php:896 dz-inc/library/functions_10_sep_2021.php:955
+msgid "Mazo"
+msgstr ""
+
+#: dz-inc/library/functions.php:897 dz-inc/library/functions_10_sep_2021.php:956
+msgid "Architecture Theme"
+msgstr ""
+
+#: dz-inc/library/functions.php:1087 dz-inc/library/functions_10_sep_2021.php:1143
+msgid "Author :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1090 dz-inc/library/functions_10_sep_2021.php:1146
+msgid "Search :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1093 dz-inc/library/functions_10_sep_2021.php:1149
+msgid "Category :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1096 dz-inc/library/functions_10_sep_2021.php:1152
+msgid "Product :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1099 dz-inc/library/functions_10_sep_2021.php:1155
+msgid "Tag :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1107 dz-inc/library/functions_10_sep_2021.php:1163
+msgid "Archive :"
+msgstr ""
+
+#: dz-inc/library/functions.php:1528 dz-inc/library/functions_10_sep_2021.php:1555
+msgid "loading"
+msgstr ""
+
+#: dz-inc/library/functions.php:1594 dz-inc/library/functions_10_sep_2021.php:1595
+msgid "Your Wait Is Going To Finish"
+msgstr ""
+
+#: dz-inc/library/functions.php:1912 dz-inc/library/functions_10_sep_2021.php:1913
+msgid "Tags:"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:74
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:102
+msgid "Move up"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:115
+msgid "Move down"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:117
+msgid "Edit Menu Item"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:128
+msgid "URL"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:135
+msgid "Navigation Label"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:141
+msgid "Title Attribute"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:148
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:153
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:159
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:165
+#: dz-inc/library/widgets.php:843
+msgid "Description"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:167
+msgid ""
+"The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:185
+msgid "Make this a category mega menu"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:203
+msgid "No. of post per category (Default 6)"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:211
+msgid "Posts With Images Only: (Default No)"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:221
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:234
+msgid "Remove"
+msgstr ""
+
+#: dz-inc/library/mega_menu/edit_mega_menu_walker.php:235
+msgid "Cancel"
+msgstr ""
+
+#: dz-inc/library/widgets.php:10
+msgid "Mazo Recent Post"
+msgstr ""
+
+#: dz-inc/library/widgets.php:10
+msgid "Show the footer recent posts sidebar"
+msgstr ""
+
+#: dz-inc/library/widgets.php:53
+msgid "Recent Post"
+msgstr ""
+
+#: dz-inc/library/widgets.php:58 dz-inc/library/widgets.php:355
+msgid "Title: "
+msgstr ""
+
+#: dz-inc/library/widgets.php:62
+msgid "No. of Posts:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:67 dz-inc/library/widgets.php:364
+msgid "All Categories"
+msgstr ""
+
+#: dz-inc/library/widgets.php:117
+msgid "Mazo Navigation"
+msgstr ""
+
+#: dz-inc/library/widgets.php:117
+msgid "Show the Navigation"
+msgstr ""
+
+#: dz-inc/library/widgets.php:243
+msgid "Navigation"
+msgstr ""
+
+#: dz-inc/library/widgets.php:249 dz-inc/library/widgets.php:838
+#: dz-inc/library/widgets.php:914 dz-inc/library/widgets.php:996
+msgid "Title:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:250
+msgid "Menu"
+msgstr ""
+
+#: dz-inc/library/widgets.php:253
+msgid "Select Menu:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:271
+msgid "Select Menu Style:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:274
+msgid "Style 1"
+msgstr ""
+
+#: dz-inc/library/widgets.php:275
+msgid "Style 2"
+msgstr ""
+
+#: dz-inc/library/widgets.php:276
+msgid "Style 3"
+msgstr ""
+
+#: dz-inc/library/widgets.php:284
+msgid "Choose Style"
+msgstr ""
+
+#: dz-inc/library/widgets.php:306
+msgid "Mazo Our Portfolio"
+msgstr ""
+
+#: dz-inc/library/widgets.php:306
+msgid "Show the Our Projects"
+msgstr ""
+
+#: dz-inc/library/widgets.php:350
+msgid "Our Projects"
+msgstr ""
+
+#: dz-inc/library/widgets.php:359
+msgid "Number of posts: "
+msgstr ""
+
+#: dz-inc/library/widgets.php:393
+msgid "Mazo Contact Us"
+msgstr ""
+
+#: dz-inc/library/widgets.php:393 dz-inc/library/widgets.php:501
+#: dz-inc/library/widgets.php:609
+msgid "Show the information about Contact"
+msgstr ""
+
+#: dz-inc/library/widgets.php:458 dz-inc/library/widgets.php:566
+#: dz-inc/library/widgets.php:665
+msgid "CONTACT US"
+msgstr ""
+
+#: dz-inc/library/widgets.php:467 dz-inc/library/widgets.php:575
+#: dz-inc/library/widgets.php:672
+msgid "Contact Us:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:468 dz-inc/library/widgets.php:484
+#: dz-inc/library/widgets.php:576 dz-inc/library/widgets.php:592
+#: dz-inc/library/widgets.php:673
+msgid "Contact us"
+msgstr ""
+
+#: dz-inc/library/widgets.php:471 dz-inc/library/widgets.php:579
+#: dz-inc/library/widgets.php:676
+msgid "Address Here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:475 dz-inc/library/widgets.php:583
+#: dz-inc/library/widgets.php:680
+msgid "Phone Number Here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:476 dz-inc/library/widgets.php:584
+#: dz-inc/library/widgets.php:681
+msgid "Enter number"
+msgstr ""
+
+#: dz-inc/library/widgets.php:479 dz-inc/library/widgets.php:587
+#: dz-inc/library/widgets.php:684
+msgid "Email Here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:480 dz-inc/library/widgets.php:588
+#: dz-inc/library/widgets.php:685
+msgid "Enter email"
+msgstr ""
+
+#: dz-inc/library/widgets.php:483 dz-inc/library/widgets.php:591
+msgid "Button Text:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:487 dz-inc/library/widgets.php:595
+msgid "Button Url:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:488 dz-inc/library/widgets.php:596
+msgid "https://"
+msgstr ""
+
+#: dz-inc/library/widgets.php:501
+msgid "Mazo Contact Us 2"
+msgstr ""
+
+#: dz-inc/library/widgets.php:609
+msgid "Mazo Contact Us 3"
+msgstr ""
+
+#: dz-inc/library/widgets.php:699
+msgid "Mazo About Us"
+msgstr ""
+
+#: dz-inc/library/widgets.php:699
+msgid "Show the information about company"
+msgstr ""
+
+#: dz-inc/library/widgets.php:751
+msgid "About Us"
+msgstr ""
+
+#: dz-inc/library/widgets.php:757
+msgid "Logo url here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:758
+msgid "Logo url"
+msgstr ""
+
+#: dz-inc/library/widgets.php:761
+msgid "About Us:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:762
+msgid "About us"
+msgstr ""
+
+#: dz-inc/library/widgets.php:765
+msgid "Content:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:769
+msgid "Show Social Icons:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:785
+msgid "Mazo Ads"
+msgstr ""
+
+#: dz-inc/library/widgets.php:785
+msgid "Show Ads"
+msgstr ""
+
+#: dz-inc/library/widgets.php:804
+msgid "GET A QUOTE"
+msgstr ""
+
+#: dz-inc/library/widgets.php:833
+msgid "Background url here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:834
+msgid "Background url"
+msgstr ""
+
+#: dz-inc/library/widgets.php:839
+msgid "Title"
+msgstr ""
+
+#: dz-inc/library/widgets.php:842
+msgid "Description:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:846
+msgid "Button url here:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:847
+msgid "Button url"
+msgstr ""
+
+#: dz-inc/library/widgets.php:862
+msgid "Mazo Footer Newsletter 1"
+msgstr ""
+
+#: dz-inc/library/widgets.php:862 dz-inc/library/widgets.php:939
+msgid "Show the Newsletter"
+msgstr ""
+
+#: dz-inc/library/widgets.php:909 dz-inc/library/widgets.php:991
+msgid "Our Newsletter"
+msgstr ""
+
+#: dz-inc/library/widgets.php:910 dz-inc/library/widgets.php:992
+msgid "Nullam vel massa hendrerit libero auctor volutpat"
+msgstr ""
+
+#: dz-inc/library/widgets.php:915 dz-inc/library/widgets.php:997
+msgid "Subscribe To Our Newsletter"
+msgstr ""
+
+#: dz-inc/library/widgets.php:918 dz-inc/library/widgets.php:1000
+msgid "Contents:"
+msgstr ""
+
+#: dz-inc/library/widgets.php:939
+msgid "Mazo Footer Newsletter 2"
+msgstr ""
+
+#: dz-inc/library/woocommerce_functions.php:29
+#: dz-inc/library/woocommerce_functions.php:40
+#: dz-inc/library/woocommerce_functions.php:52
+msgid "Free"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+msgid "Install Required Plugins"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:344
+msgid "Install Plugins"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:346
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:921
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2637
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3684
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3263
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3056
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:408
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:410
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:411
+msgid "Dismiss this notice"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:412
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:413
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1028
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1031
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1031
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "Recommended"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "WordPress Repository"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2399
+msgid "External Source"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2402
+msgid "Pre-Packaged"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2419
+msgid "Not Installed"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2425
+msgid "Active"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2431
+msgid "Required Update not Available"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2434
+msgid "Requires Update"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2437
+msgid "Update recommended"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2446
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2504
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2586
+msgid "unknown"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2594
+msgid "Installed version:"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2602
+msgid "Minimum required version:"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Available version:"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2637
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2651
+msgid "Plugin"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2652
+msgid "Source"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2653
+msgid "Type"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2657
+msgid "Version"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2712
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2718
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2788
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2821
+msgid "Install"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2827
+msgid "Update"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2830
+msgid "Activate"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2861
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2863
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2904
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2906
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3012
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3038
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3262
+msgid "Plugin activation failed."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3614
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3616
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3619
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3621
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3622
+msgid "All installations have been completed."
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3624
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "DZ Core (Required)"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:73
+msgid "DZ Import"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:84
+msgid "Revolution Slider"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:95
+msgid "Elementor"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:101
+msgid "Redux-Framework"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:107
+msgid "Contact Form 7"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:113
+msgid "Woocommerce"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:118
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:123
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:128
+msgid "Woo Variation Swatches"
+msgstr ""
+
+#: dz-inc/thirdparty/tgm-plugin-activation/plugins.php:133
+msgid "Booked"
+msgstr ""
+
+#: functions.php:21
+msgid "Personal Blog"
+msgstr ""
+
+#: functions.php:24
+msgid "© 2022 All Rights Reserved."
+msgstr ""
+
+#: functions.php:59
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "One Page Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:102
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:104 functions.php:186 functions.php:217
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:114 functions.php:124 functions.php:134 functions.php:144
+#: functions.php:154 functions.php:164 functions.php:174
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer Sidebar 5"
+msgstr ""
+
+#: functions.php:162
+msgid "Footer Sidebar 6"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer Sidebar 7"
+msgstr ""
+
+#: functions.php:184
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:194
+msgid "Header Shopping Cart"
+msgstr ""
+
+#: functions.php:196
+msgid "Widgets in this area will be shown in Header Area."
+msgstr ""
+
+#: functions.php:393
+msgid "Search"
+msgstr ""
+
+#: functions.php:449
+msgid ""
+"Sed laoreet orci id pretium sodales. Nunc ac est dolor. Donec placerat dolor et "
+"mi elementum, in suscipit libero tincidunt. Ut at tempor ex, vel auctor tortor. "
+"Sed finibus vitae mi et imperdiet."
+msgstr ""
+
+#: functions.php:450
+msgid "INFO@DEXIGNZONE.COM"
+msgstr ""
+
+#: functions.php:691
+msgid "Archive : "
+msgstr ""
+
+#: functions.php:723
+msgid "Tag : "
+msgstr ""
+
+#: functions.php:756
+msgid "Author : "
+msgstr ""
+
+#: functions.php:797
+msgid "Mazo Personal Blog"
+msgstr ""
+
+#: functions.php:804
+msgid "Search : "
+msgstr ""
+
+#: functions.php:913
+msgid "Something went wrong !"
+msgstr ""
+
+#: functions.php:916
+msgid "You can go back to the Main Page by clicking the button."
+msgstr ""
+
+#: functions.php:917
+msgid "Back to Home"
+msgstr ""
+
+#: functions.php:1098 functions.php:1099 functions.php:1100 functions.php:1101
+msgid "on"
+msgstr ""
+
+#: functions.php:1152
+msgid "strong magenta"
+msgstr ""
+
+#: functions.php:1157
+msgid "light grayish magenta"
+msgstr ""
+
+#: functions.php:1162
+msgid "very light gray"
+msgstr ""
+
+#: functions.php:1167
+msgid "very dark gray"
+msgstr ""
+
+#: search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:49
+msgid "If you are not happy with the results, please do another search."
+msgstr ""
+
+#: search.php:54
+msgid "Write your text"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search Here"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:82 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104
+#, php-format
+msgid ""
+"Note: taxes are estimated %s and will be updated during checkout based on your "
+"billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Close"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+msgid "LOGIN"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:103
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:76
+msgid "REGISTER"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:109
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:30
+msgid "Related Products"
+msgstr ""

@@ -1,0 +1,23 @@
+/* Globle Css */
+/* Footer */
+:root {
+  --primary: #1e73be;
+  --secondary: #d93;
+  --border-radius-base: 4px;
+  --gradient: linear-gradient(to right, #1e73be 0, #175892 51%, #1e73be 100%);
+  --gradient-sec: linear-gradient(to right, #d93 0, #bd7e20 51%, #d93 100%);
+  --primary-hover: #175892;
+  --primary-dark: #144e80;
+  --rgba-primary-1: rgba(30, 115, 190, 0.1);
+  --rgba-primary-2: rgba(30, 115, 190, 0.2);
+  --rgba-primary-3: rgba(30, 115, 190, 0.3);
+  --rgba-primary-4: rgba(30, 115, 190, 0.4);
+  --rgba-primary-5: rgba(30, 115, 190, 0.5);
+  --rgba-primary-6: rgba(30, 115, 190, 0.6);
+  --rgba-primary-7: rgba(30, 115, 190, 0.7);
+  --rgba-primary-8: rgba(30, 115, 190, 0.8);
+  --rgba-primary-9: rgba(30, 115, 190, 0.9);
+}
+.theme-rounded {
+  --border-radius-base: 4px;
+}

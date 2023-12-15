@@ -1,0 +1,180 @@
+.dz-load-more i,
+.loadmore-btn i
+{
+  display:none;
+  width:18px;
+  margin-left:5px;
+}
+
+.dz-load-more.active i,
+.loadmore-btn.active i
+{
+  display:inline-block;
+  
+}
+.says, .comment-meta{
+	display:none;
+}
+
+/* Work Add For SASS */
+.subscribe-section{
+	z-index:9;
+}
+.post-audio iframe{
+	width:100%;
+	height:400px;
+}
+.question_img{
+	width:80px;
+}
+.dz-ajax-overlay{
+	position: relative;
+}	
+.dz-ajax-overlay:before{
+	content: "";
+	height: 100%;
+	width: 100%;
+	background-color: #000;
+	opacity: 0.8;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 11;
+    border-radius: 4px;
+}
+
+/* Elementor CSS */
+.sticky-top.elementor-widget{
+	position:sticky;
+}
+body .news-header .tp-tab-desc{
+	color:var(--primary) ;
+	
+}
+/* Elementor CSS END */
+
+
+/* Boxed Layout CSS */ 
+#bg {
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/* Post Video */
+.dz-media iframe{
+	width: 100%;
+    height: 400px;
+}
+
+/* Post Video */
+.wp-block-code>code{
+	color:#fff;
+}
+
+/* dz form */
+.dz-form .wpcf7-form-control.wpcf7-select.form-control{
+	height: 100px;
+}
+.dz-form .wpcf7-form-control.wpcf7-select.form-control option{
+	padding: 5px 0;
+}
+.dz-form .wpcf7-form-control.wpcf7-radio,
+.dz-form .wpcf7-form-control.wpcf7-checkbox{
+	background-color: transparent;
+    padding: 0;
+    height: auto;
+	border: 0;
+}
+.dz-form .wpcf7-form-control.wpcf7-radio .wpcf7-list-item:first-child,
+.dz-form .wpcf7-form-control.wpcf7-checkbox .wpcf7-list-item:first-child{
+	margin-left: 0;
+}
+.dz-form .wpcf7-list-item {
+    margin: 0 30px 15px 0;
+}
+.dz-form .wpcf7-list-item label{
+    position: relative;
+}
+.dz-form .wpcf7-form-control-wrap label{
+	width: 100%;
+}
+.dz-form .wpcf7-list-item input{
+	width: 1.25rem;
+	min-width: 1.25rem;
+    height: 1.25rem;
+    vertical-align: top;
+    background-color: rgba(0, 0, 0, 0.1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: 0;
+    appearance: none;
+	border-radius: 2px;
+	top: 2px;
+}
+.dz-form.bg-primary .wpcf7-list-item input{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.dz-form .wpcf7-list-item input[type="checkbox"]:after{
+	content: "\f00c";
+    font-family: "FontAwesome";
+    position: absolute;
+    left: 5px;
+    top: 4px;
+    color: #051136;
+    font-size: 12px;
+    line-height: 1;
+    opacity: 0;
+}
+.dz-form.bg-primary .wpcf7-list-item input[type="checkbox"]:after{
+	color: #fff;
+}
+.dz-form .wpcf7-list-item input[type="checkbox"]:checked:after{
+	opacity: 1;
+}
+.dz-form .wpcf7-list-item .wpcf7-list-item-label{
+	color: #636363;
+}
+.dz-form.bg-primary .wpcf7-list-item .wpcf7-list-item-label{
+	color: #fff;
+}
+.dz-form .wpcf7-list-item .wpcf7-list-item-label{
+	padding-left: 6px;
+	line-height: 1;
+}
+.dz-form .wpcf7-list-item input[type="radio"]:after{
+	content: "";
+    height: 10px;
+    width: 10px;
+	background-color: #051136;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    border-radius: 50%;
+    opacity: 0;
+}
+.dz-form.bg-primary .wpcf7-list-item input[type="radio"]:after{
+	background-color: #fff;
+}
+.dz-form .wpcf7-list-item input[type="radio"]:checked:after{
+    opacity: 0.8;
+}
+.dz-form .wpcf7-list-item input[type="radio"]{
+	border-radius: 50%;
+}
+.dz-form.bg-primary .input-group{
+	color: #fff;
+}
+.dz-form .wpcf7-form-control-wrap .wpcf7-list-item{
+    margin-top: 5px;
+}
+.dz-form .wpcf7-file{
+	line-height: 3;
+    padding: 5px 12px;
+    height: auto;
+}
+@media screen and (max-width: 591px){
+	.dz-form .wpcf7-list-item {
+		margin: 0 20px 15px 0;
+	}
+}

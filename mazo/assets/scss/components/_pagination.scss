@@ -1,0 +1,61 @@
+.pagination{
+	li{
+		margin: 0 6px;
+		@include respond('phone'){
+			margin: 0 2px;
+		}	
+		.page-numbers,
+		.page-link{
+			height: 45px;
+			min-width: 45px;
+			line-height: 45px;
+			color: #777777;
+			text-align: center;
+			border: 0;
+			transition: all 0.5s;
+			border-color: #777777;
+			font-size: 18px;
+			padding: 0 10px;
+			display: block;
+			border-radius: var(--border-radius-sm) !important;
+			box-shadow: 0 5px 30px rgba(0, 0, 0, 0.10) !important;
+			
+			@include respond('phone'){
+				height: 38px;
+				min-width: 38px;
+				line-height: 36px;
+				font-size: 16px;
+			}	
+			&.current,
+			&.active,
+			&:hover{
+				color: $white;
+				background-color: var(--primary);
+				border-color: var(--primary);
+			}
+		}
+		.prev,
+		.next{
+			border-color: transparent;
+			font-size: 16px;
+			@include respond('phone'){
+				font-size: 14px;
+			}
+		}
+	}
+	&.text-center{
+		justify-content: center;
+	}
+	&.rounded-0{
+		.page-item{
+			.page-link{
+				border-radius: 0;
+			}
+		}
+	}
+	@include respond('phone-land'){
+		&.m-t40{
+			margin-top: 0;
+		}
+	}	
+}

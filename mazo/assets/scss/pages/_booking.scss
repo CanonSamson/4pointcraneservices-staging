@@ -1,0 +1,251 @@
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active, 
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover, 
+body #booked-profile-page input[type=submit].button-primary:hover, 
+body .booked-list-view button.button:hover, 
+body .booked-list-view input[type=submit].button-primary:hover, 
+body table.booked-calendar input[type=submit].button-primary:hover, 
+body .booked-modal input[type=submit].button-primary:hover, 
+body table.booked-calendar th, 
+body table.booked-calendar thead, 
+body table.booked-calendar thead th, 
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover, 
+body #booked-profile-page .booked-profile-header, 
+body #booked-profile-page .booked-tabs li.active a, 
+body #booked-profile-page .booked-tabs li.active a:hover, 
+body #booked-profile-page .appt-block .google-cal-button > a:hover, 
+body #booked-profile-page .booked-fea-appt-list button.button-primary:hover,
+#ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header {
+    background: var(--primary-hover) !important;
+}
+body table.booked-calendar tr.days, 
+body table.booked-calendar tr.days th, 
+body .booked-calendarSwitcher.calendar, 
+body #booked-profile-page .booked-tabs, 
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead, 
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead th {
+    background: var(--primary) !important;
+}
+body table.booked-calendar tr.days th, 
+body #booked-profile-page .booked-tabs {
+    border-color: var(--primary) !important;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-title {
+    color: var(--primary);
+}
+.booking-contact {
+    background: var(--primary);
+    padding: 40px;
+    border-radius: var(--border-radius-base);
+	@include respond('tab-port'){
+		padding: 30px;
+	}
+	.title{
+		color:#fff;
+		margin-bottom: 15px;
+	}
+	
+	&.widget_getintuch ul li{
+		color:#fff;
+		&:last-child{
+			margin-bottom:0;
+		}
+		i{
+			background-color: #fff;
+			display: block;
+			color: var(--primary);
+		}
+	}
+	
+}
+body table.booked-calendar tbody td{
+	@include respond('tab-port-min'){
+		height: 110px !important;	
+	}
+}
+
+/*Booking Plugin Form */
+body {
+	#booked-profile-page {
+		margin: 0 15px;
+		padding: 0px 0;
+		@include respond('phone'){
+			padding: 20px 0 0;
+			margin: 0 0px;
+		}
+		input[type=submit].button-primary{
+			background:var(--primary);
+			border-color:var(--primary);
+			border-radius: var(--border-radius-lg);
+			&:hover{
+				background:var(--primary-hover) !important;
+				border-color:var(--primary-hover) !important;
+			}
+		}
+		.booked-tabs{
+			background-color:rgba(0,0,0,0) !important;
+			text-align:center;
+			margin-bottom: 5px !important;
+			padding-bottom: 7px !important;
+			margin-top: 30px!important;
+			border: 0!important;
+			&.login{
+				border: 0;
+			}
+			li{
+				float: none!important;
+				position:relative;
+				margin-bottom: 15px!important;
+				
+				&:before{
+					content: none;
+				}
+				a{
+					background: #191f23;
+					padding: 0 25px;
+					line-height: 50px;
+					border-radius: var(--border-radius-base);
+					margin: 0 5px;
+					position:relative;
+					@include respond('phone'){
+						margin: 0;
+						justify-content: center;
+					}
+					.counter{
+						margin-left: 7px;
+						font-weight: 700;
+						background-color: #fff;
+						color: #000;
+						height: 20px;
+						border-radius: 50px;
+						line-height: 20px;
+						padding: 0px 2px;
+						text-align:center;
+						display:inline-block;
+						min-width:20px;
+						font-size: 12px;
+					}
+					&:after{
+						content: "";
+						width: 10px;
+						height: 0;
+						background: inherit;
+						display: block;
+						transform: rotate(45deg);
+						-moz-transform: rotate(45deg);
+						-webkit-transform: rotate(45deg);
+						-ms-transform: rotate(45deg);
+						-o-transform: rotate(45deg);
+						bottom: -5px;
+						position: absolute;
+						left: 50%;
+						margin-left: -5px;
+					}
+					&:hover{
+						background:var(--primary-hover) !important;
+						border-color:var(--primary-hover) !important;
+					}
+				}
+				&.active a:after{
+					height: 10px;
+				}
+			}
+		}
+		.booked-tab-content{
+			padding: 30px;	
+			border: 1px solid rgba(0,0,0,0.1);
+			border-radius: 4px;
+			box-shadow: 5px 12px 20px 0 rgba(0,0,0,0.05);
+			max-width: 840px;
+			margin: auto;
+			@include respond('phone'){
+				padding: 20px;
+			}
+			input[type="submit"]{
+				font-size: 15px;
+				display: inline-block;
+				padding: 6px 20px;
+				border-radius: 4px;
+			}
+			
+			form p label{
+				margin-bottom: 10px;
+				font-size: 16px;
+				color: #000;
+				font-weight: 400;
+				line-height: 15px;
+			}
+		}
+		input[type="submit"],
+		.booked-tab-content form p input{
+			margin-top: 0;
+			height: 50px;
+			padding: 10px 30px;
+			border-color: rgba(0,0,0,0.1);
+			border-radius: 4px;
+		}
+		.booked-profile-header {
+			border-radius: 3px;
+			width: 840px;
+			margin: auto;
+			@include respond('tab-port'){
+				width: 100%;
+			}
+			@include respond('phone'){
+				width: 100%;
+				text-align: center;
+			}
+		}
+		@include respond('phone'){
+			.booked-user-avatar {
+				float: unset;
+			}
+		}
+	}
+}
+.login-remember {
+	label{
+		display: flex;
+		align-items: center;
+	}
+	input{
+		opacity:1;
+		position: unset !important;
+		top: auto !important;
+		margin: -2px 7px 0 0 !important;
+	}
+}
+.dz-login-btn a,
+.dz-account-btn {
+	padding: 4px 8px;
+    font-size: 12px;
+    background: var(--secondary);
+    color: #fff;
+    margin: 0 4px;
+	&:hover{
+		background: var(--primary-hover);
+		color:#fff;
+	}
+}
+#wp-user-avatars-user-settings{
+	.form-table{
+		color:var(--title);
+		label{
+			color:var(--title);
+		}
+		#wp-user-avatars-photo{
+			img{
+				width:60px;
+			}
+		}
+		#wp-user-avatars-ratings{
+			 input[type="radio"]{
+				margin-right:10px;
+			 }
+		}
+		#wp-user-avatars-actions{
+			& > div{
+				display:inline-block;
+			}
+		}
+	}
+}
